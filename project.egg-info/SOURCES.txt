@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+scraping3/__init__.py
+scraping3/items.py
+scraping3/middlewares.py
+scraping3/pipelines.py
+scraping3/settings.py
+scraping3/spiders/__init__.py
+scraping3/spiders/tutsplus.py

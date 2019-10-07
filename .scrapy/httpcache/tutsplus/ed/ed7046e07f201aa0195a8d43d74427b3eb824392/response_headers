@@ -1,0 +1,9 @@
+Date: Mon, 07 Oct 2019 06:21:33 GMT
+Content-Type: application/octet-stream
+Location: /categories
+Status: 301 Moved Permanently
+X-Powered-By: Phusion Passenger 6.0.2
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 521dc687e994e60c-LHR
